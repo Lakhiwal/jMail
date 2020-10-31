@@ -6,6 +6,8 @@
 		html
 		{
 			scroll-behavior: smooth;
+			hieght: 100%;
+			width: auto;
 		}
 		body
 		{
