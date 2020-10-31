@@ -84,7 +84,8 @@
 	}
 	.input-msg
 	{
-
+		color: cyan;
+		border: 2px solid black;
 	}
 
 	/* message box collapsible */
