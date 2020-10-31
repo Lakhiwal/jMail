@@ -35,10 +35,10 @@
 	</div><br><br>
 	
 
-        <centre><h>Check the Username you've entered.Click below to login again. </h></centre>
+        <centre><h1>Check the Username you've entered.Click below to login again. </h1></centre>
         <input id="in" type="submit" value="Login again" align="centre"> 
                             <%
-response.setHeader("Cache-Control", "no-cache, no-store, must-revalidate"); // HTTP 1.1.
+response.setHeader("Cache-Control", "no-cache, no-store, must-revalidate"); // HTTP 1.1 headers.
 response.setHeader("Pragma", "no-cache"); // HTTP 1.0.
 if(session.getAttribute("valid")==null)
 {
