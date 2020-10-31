@@ -12,7 +12,7 @@
 	.header
 	{
 		width: auto;
-		height: 30%;
+		height: 185px;
 		background-color: rgba(255,255,255,0);
 		
 	}
