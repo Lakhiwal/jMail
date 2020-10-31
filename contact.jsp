@@ -48,7 +48,7 @@
 					Get in touch
 				</span>
 
-				<div class="wrap-input1 validate-input" data-validate = "Name is required">
+				<div class="wrap-input1 validate-input" data-validate = "Name required">
 					<input class="input1" type="text" name="name" placeholder="Name">
 					<span class="shadow-input1"></span>
 				</div>
