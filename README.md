@@ -1,2 +1,2 @@
 # jMail-1
-jMail Website works on Java Server Pages. It include Registration Page, Login Page, sending messages, sent messages and recieved messages.
+jMail Website works on Java Server Pages. It includes Registration Page, Login Page, sending messages, send messages and recieve messages.
